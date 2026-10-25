@@ -3,7 +3,7 @@
 A web application on **Zoho Catalyst** that forecasts hourly energy demand for the next 24 hours with a model trained in **Catalyst QuickML**, then applies the microgrid transition rules (Main Grid vs Renewable Storage, plus critical overload alerts) and shows everything on a live dashboard.
 
 - **Live app (Catalyst Slate):** https://static-ngeespll.onslate.in
-- **Team:** `<TEAM NAME>`
+- **Team:** `Tinkers`
 
 ## How it works
 
