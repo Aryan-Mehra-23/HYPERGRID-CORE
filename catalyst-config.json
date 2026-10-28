@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "project_rainfall_function",
+		"stack": "python_3_13",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "main.py"
+	}
+}
