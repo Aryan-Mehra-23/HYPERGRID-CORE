@@ -1,0 +1,15 @@
+{
+  "functions": {
+    "targets": [
+      "project_rainfall_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "slate": [
+    {
+      "name": "static",
+      "source": "C:\\Users\\Aryan Mehra\\BITS\\static"
+    }
+  ]
+}
