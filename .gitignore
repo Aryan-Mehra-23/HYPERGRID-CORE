@@ -1,0 +1,4 @@
+_catalystrc
+__pycache__/
+*.pyc
+.env
